@@ -1,0 +1,5 @@
+mne-bids==0.13
+pyprep==0.4.2
+autoreject
+mne-icalabel==0.4
+click
